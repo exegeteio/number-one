@@ -34,7 +34,7 @@
     "faunadb": "^2.14.2",
     "nexmo": "^2.7.0-beta-1",
     "opentok": "^2.10.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "uuid": "^8.3.0"
   },
   "devDependencies": {
